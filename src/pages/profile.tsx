@@ -1,4 +1,4 @@
-import {Typography,Box} from '@mui/material';
+import { Box } from '@mui/material';
 import React from 'react';
 import ProfileColumn from './profileColumn';
 import InfoColumn from './infoColumn';
@@ -6,7 +6,7 @@ import InfoColumn from './infoColumn';
 
 export const Profile = () => {
  return (
-<Box sx={{width:"100%", backgroundColor:"blue"}}>
+<Box>
     <Box>
         <ProfileColumn></ProfileColumn>
     </Box>

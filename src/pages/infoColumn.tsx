@@ -4,7 +4,7 @@ import React from 'react';
 
 export const InfoColumn = () => {
  return (
-<Box sx={{width:"100%", backgroundColor:"blue"}}>
+<Box>
 <h1>Hello2</h1>
 </Box>
 
